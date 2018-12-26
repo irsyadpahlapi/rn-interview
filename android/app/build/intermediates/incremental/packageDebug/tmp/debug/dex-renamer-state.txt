@@ -1,0 +1,4 @@
+#Wed Dec 19 20:35:36 WIB 2018
+base.0=/home/lupa/testingreact/example/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
